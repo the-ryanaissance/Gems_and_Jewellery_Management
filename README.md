@@ -238,16 +238,28 @@ The following image paths are placeholders. Add screenshots at these paths or up
 
 ### Home page
 
-![Home page screenshot placeholder](docs/screenshots/homepage.png)
+(docs/screenshots/homepage.png)
 
 ### Gem and jewellery catalogue
 
-![Catalogue screenshot placeholder](docs/screenshots/catalogue.png)
+(docs/screenshots/catalogue.png)
 
 ### Product details and shopping
 
-![Product and shopping screenshot placeholder](docs/screenshots/product-and-shopping.png)
+(docs/screenshots/product-and-shopping.png)
 
-### Admin or consultant dashboard
+### Admin dashboard
 
-![Dashboard screenshot placeholder](docs/screenshots/dashboard.png)
+(docs/screenshots/dashboard.png)
+
+## Demo Login Credentials
+
+The following credentials can be used to test the application.
+
+| Role | Username / Email | Password |
+|---|---|---|
+| Administrator | `admin@pinwntha.com` | `Admin@123` |
+| Customer | `john123@gmail.com` | `john123` |
+| Consultant | `rsenanayake@example.com` | `XhJLAjryUCv2` |
+
+**Note:** These are sample accounts provided for demonstration and testing purposes only.
